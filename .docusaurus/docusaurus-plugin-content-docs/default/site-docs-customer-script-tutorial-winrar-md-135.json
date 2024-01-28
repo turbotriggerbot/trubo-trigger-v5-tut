@@ -1,0 +1,28 @@
+{
+  "id": "Customer script tutorial/winrar",
+  "title": "winrar",
+  "description": "image",
+  "source": "@site/docs/Customer script tutorial/winrar.md",
+  "sourceDirName": "Customer script tutorial",
+  "slug": "/Customer script tutorial/winrar",
+  "permalink": "/docs/Customer script tutorial/winrar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Customer script tutorial/winrar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "getting Winrar",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Download",
+    "permalink": "/docs/Customer script tutorial/download"
+  },
+  "next": {
+    "title": "extracting the script",
+    "permalink": "/docs/Customer script tutorial/Extracting"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "python tutorial/intro",
+  "title": "installing python",
+  "description": "to run the trigger bot you need to install python and some packages",
+  "source": "@site/docs/python tutorial/intro.md",
+  "sourceDirName": "python tutorial",
+  "slug": "/python tutorial/intro",
+  "permalink": "/docs/python tutorial/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/python tutorial/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "installing python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/Customer script tutorial/intro"
+  },
+  "next": {
+    "title": "installing the correct python version",
+    "permalink": "/docs/python tutorial/frommsstore"
+  }
+}

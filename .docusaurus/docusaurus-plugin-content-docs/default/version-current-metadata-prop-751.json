@@ -1,0 +1,205 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "intro",
+        "href": "/docs/Customer script tutorial/intro",
+        "docId": "Customer script tutorial/intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "installing Python and its packages",
+        "items": [
+          {
+            "type": "link",
+            "label": "installing python",
+            "href": "/docs/python tutorial/intro",
+            "docId": "python tutorial/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "installing the correct python version",
+            "href": "/docs/python tutorial/frommsstore",
+            "docId": "python tutorial/frommsstore",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "getting the trigger bot",
+        "items": [
+          {
+            "type": "link",
+            "label": "Download",
+            "href": "/docs/Customer script tutorial/download",
+            "docId": "Customer script tutorial/download",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "getting Winrar",
+            "href": "/docs/Customer script tutorial/winrar",
+            "docId": "Customer script tutorial/winrar",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "extracting the script",
+            "href": "/docs/Customer script tutorial/Extracting",
+            "docId": "Customer script tutorial/Extracting",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "installing and running the triggerbot",
+            "href": "/docs/Customer script tutorial/run py file",
+            "docId": "Customer script tutorial/run py file",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Potential issues",
+        "items": [
+          {
+            "type": "link",
+            "label": "installer disapearing",
+            "href": "/docs/issues/antivirus",
+            "docId": "issues/antivirus",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "cant install python",
+            "href": "/docs/issues/pythonfail",
+            "docId": "issues/pythonfail",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "other issues",
+            "href": "/docs/issues/otherissues",
+            "docId": "issues/otherissues",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "Customer script tutorial/download": {
+      "id": "Customer script tutorial/download",
+      "title": "Downloading the script",
+      "description": "Frist visit this link//mega.nz/file/12t3HRaC",
+      "sidebar": "tutorialSidebar"
+    },
+    "Customer script tutorial/Extracting": {
+      "id": "Customer script tutorial/Extracting",
+      "title": "Extracting",
+      "description": "1 - right click the downloaded RAR file",
+      "sidebar": "tutorialSidebar"
+    },
+    "Customer script tutorial/intro": {
+      "id": "Customer script tutorial/intro",
+      "title": "intro",
+      "description": "this page will show you the steps to running out trigger bot",
+      "sidebar": "tutorialSidebar"
+    },
+    "Customer script tutorial/run py file": {
+      "id": "Customer script tutorial/run py file",
+      "title": "the final steps",
+      "description": "1 -  now open the installer.exe",
+      "sidebar": "tutorialSidebar"
+    },
+    "Customer script tutorial/Running": {
+      "id": "Customer script tutorial/Running",
+      "title": "Running",
+      "description": "1 - open the script folder"
+    },
+    "Customer script tutorial/winrar": {
+      "id": "Customer script tutorial/winrar",
+      "title": "winrar",
+      "description": "image",
+      "sidebar": "tutorialSidebar"
+    },
+    "gamesettings": {
+      "id": "gamesettings",
+      "title": "Changeing game settings",
+      "description": "you have to tweak some in game settings"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Intro",
+      "description": "This tutorial will show you how to get TURBO TRIGGER up and running"
+    },
+    "issues/antivirus": {
+      "id": "issues/antivirus",
+      "title": "antivirus",
+      "description": "issues you might face during the process and how to fix them",
+      "sidebar": "tutorialSidebar"
+    },
+    "issues/otherissues": {
+      "id": "issues/otherissues",
+      "title": "other issues",
+      "description": "if you face any other problems, contact support in the  discord server",
+      "sidebar": "tutorialSidebar"
+    },
+    "issues/pythonfail": {
+      "id": "issues/pythonfail",
+      "title": "cannot install python from microsoft store",
+      "description": "if you cant install python from microsoft store you can get it from their official website :",
+      "sidebar": "tutorialSidebar"
+    },
+    "python tutorial/frommsstore": {
+      "id": "python tutorial/frommsstore",
+      "title": "installing the correct python version",
+      "description": "1 . open microsoft store",
+      "sidebar": "tutorialSidebar"
+    },
+    "python tutorial/intro": {
+      "id": "python tutorial/intro",
+      "title": "installing python",
+      "description": "to run the trigger bot you need to install python and some packages",
+      "sidebar": "tutorialSidebar"
+    },
+    "Script tutorial/download": {
+      "id": "Script tutorial/download",
+      "title": "Downloading the RAR",
+      "description": "First visit this link: Turbo Trigger - MEGA"
+    },
+    "Script tutorial/Extracting": {
+      "id": "Script tutorial/Extracting",
+      "title": "Extracting",
+      "description": "1 - right click the downloaded RAR file"
+    },
+    "Script tutorial/Running": {
+      "id": "Script tutorial/Running",
+      "title": "Running",
+      "description": "1 - open the script folder"
+    },
+    "Script tutorial/winrar": {
+      "id": "Script tutorial/winrar",
+      "title": "winrar",
+      "description": "If you already have WinRAR on your PC, skip this step"
+    }
+  }
+}

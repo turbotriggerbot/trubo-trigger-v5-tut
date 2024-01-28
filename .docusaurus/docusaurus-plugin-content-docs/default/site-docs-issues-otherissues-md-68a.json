@@ -1,0 +1,25 @@
+{
+  "id": "issues/otherissues",
+  "title": "other issues",
+  "description": "if you face any other problems, contact support in the  discord server",
+  "source": "@site/docs/issues/otherissues.md",
+  "sourceDirName": "issues",
+  "slug": "/issues/otherissues",
+  "permalink": "/docs/issues/otherissues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/otherissues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "other issues",
+    "sidebar_position": 3,
+    "title": "other issues"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cant install python",
+    "permalink": "/docs/issues/pythonfail"
+  }
+}

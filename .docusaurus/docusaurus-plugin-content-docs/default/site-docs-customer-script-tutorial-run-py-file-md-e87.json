@@ -1,0 +1,29 @@
+{
+  "id": "Customer script tutorial/run py file",
+  "title": "the final steps",
+  "description": "1 -  now open the installer.exe",
+  "source": "@site/docs/Customer script tutorial/run py file.md",
+  "sourceDirName": "Customer script tutorial",
+  "slug": "/Customer script tutorial/run py file",
+  "permalink": "/docs/Customer script tutorial/run py file",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Customer script tutorial/run py file.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "installing and running the triggerbot",
+    "sidebar_position": 4,
+    "title": "the final steps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "extracting the script",
+    "permalink": "/docs/Customer script tutorial/Extracting"
+  },
+  "next": {
+    "title": "installer disapearing",
+    "permalink": "/docs/issues/antivirus"
+  }
+}

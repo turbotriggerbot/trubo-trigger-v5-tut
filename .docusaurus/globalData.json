@@ -1,0 +1,106 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Customer script tutorial/intro",
+          "docs": [
+            {
+              "id": "Customer script tutorial/download",
+              "path": "/docs/Customer script tutorial/download",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Customer script tutorial/Extracting",
+              "path": "/docs/Customer script tutorial/Extracting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Customer script tutorial/intro",
+              "path": "/docs/Customer script tutorial/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Customer script tutorial/run py file",
+              "path": "/docs/Customer script tutorial/run py file",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Customer script tutorial/Running",
+              "path": "/docs/Customer script tutorial/Running"
+            },
+            {
+              "id": "Customer script tutorial/winrar",
+              "path": "/docs/Customer script tutorial/winrar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gamesettings",
+              "path": "/docs/gamesettings"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "issues/antivirus",
+              "path": "/docs/issues/antivirus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "issues/otherissues",
+              "path": "/docs/issues/otherissues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "issues/pythonfail",
+              "path": "/docs/issues/pythonfail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python tutorial/frommsstore",
+              "path": "/docs/python tutorial/frommsstore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python tutorial/intro",
+              "path": "/docs/python tutorial/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Script tutorial/download",
+              "path": "/docs/Script tutorial/download"
+            },
+            {
+              "id": "Script tutorial/Extracting",
+              "path": "/docs/Script tutorial/Extracting"
+            },
+            {
+              "id": "Script tutorial/Running",
+              "path": "/docs/Script tutorial/Running"
+            },
+            {
+              "id": "Script tutorial/winrar",
+              "path": "/docs/Script tutorial/winrar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Customer script tutorial/intro",
+                "label": "Customer script tutorial/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

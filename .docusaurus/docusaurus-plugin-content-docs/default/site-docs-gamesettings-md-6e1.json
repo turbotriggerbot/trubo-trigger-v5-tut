@@ -1,0 +1,19 @@
+{
+  "id": "gamesettings",
+  "title": "Changeing game settings",
+  "description": "you have to tweak some in game settings",
+  "source": "@site/docs/gamesettings.md",
+  "sourceDirName": ".",
+  "slug": "/gamesettings",
+  "permalink": "/docs/gamesettings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gamesettings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Game Settings",
+    "sidebar_position": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "issues/pythonfail",
+  "title": "cannot install python from microsoft store",
+  "description": "if you cant install python from microsoft store you can get it from their official website :",
+  "source": "@site/docs/issues/pythonfail.md",
+  "sourceDirName": "issues",
+  "slug": "/issues/pythonfail",
+  "permalink": "/docs/issues/pythonfail",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/pythonfail.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "cant install python",
+    "sidebar_position": 3,
+    "title": "cannot install python from microsoft store"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "installer disapearing",
+    "permalink": "/docs/issues/antivirus"
+  },
+  "next": {
+    "title": "other issues",
+    "permalink": "/docs/issues/otherissues"
+  }
+}

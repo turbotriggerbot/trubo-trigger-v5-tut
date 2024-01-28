@@ -1,0 +1,24 @@
+{
+  "id": "Issues",
+  "title": "Issues",
+  "description": "issues you might face during the process and how to fix them",
+  "source": "@site/docs/Issues.md",
+  "sourceDirName": ".",
+  "slug": "/Issues",
+  "permalink": "/docs/Issues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Issues.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Potential issues",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "installing and running the triggerbot",
+    "permalink": "/docs/Customer script tutorial/run py file"
+  }
+}

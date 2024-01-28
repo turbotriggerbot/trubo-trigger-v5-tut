@@ -1,0 +1,19 @@
+{
+  "id": "Customer script tutorial/Running",
+  "title": "Running",
+  "description": "1 - open the script folder",
+  "source": "@site/docs/Customer script tutorial/Running.md",
+  "sourceDirName": "Customer script tutorial",
+  "slug": "/Customer script tutorial/Running",
+  "permalink": "/docs/Customer script tutorial/Running",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Customer script tutorial/Running.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Running the script",
+    "sidebar_position": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Script tutorial/Extracting",
+  "title": "Extracting",
+  "description": "1 - right click the downloaded RAR file",
+  "source": "@site/docs/Script tutorial/Extracting.md",
+  "sourceDirName": "Script tutorial",
+  "slug": "/Script tutorial/Extracting",
+  "permalink": "/docs/Script tutorial/Extracting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Script tutorial/Extracting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "extracting the script",
+    "sidebar_position": 4
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "/__docusaurus/debug-f0f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    }
+  },
+  "/__docusaurus/debug/config-7f2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    }
+  },
+  "/__docusaurus/debug/content-479": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-476": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    }
+  },
+  "/__docusaurus/debug/metadata-e1c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    }
+  },
+  "/__docusaurus/debug/registry-4a1": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    }
+  },
+  "/__docusaurus/debug/routes-9dd": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugcf-8-b38"
+    }
+  },
+  "/markdown-page-3db": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagee-20-46b"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-b86": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-0-df-55d"
+    }
+  },
+  "/docs-33b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-638": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/Customer script tutorial/download-42a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-customer-script-tutorial-download-56-b-dad"
+  },
+  "/docs/Customer script tutorial/Extracting-0b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-customer-script-tutorial-extractingbc-3-ffd"
+  },
+  "/docs/Customer script tutorial/intro-580": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-customer-script-tutorial-intro-1-df-20d"
+  },
+  "/docs/Customer script tutorial/run py file-22e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-customer-script-tutorial-run-py-filee-87-7bf"
+  },
+  "/docs/Customer script tutorial/Running-e93": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-customer-script-tutorial-running-1-e-7-377"
+  },
+  "/docs/Customer script tutorial/winrar-603": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-customer-script-tutorial-winrar-135-6b3"
+  },
+  "/docs/gamesettings-fce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-gamesettings-6-e-1-73b"
+  },
+  "/docs/intro-e84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/issues/antivirus-cb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-issues-antivirusda-2-d81"
+  },
+  "/docs/issues/otherissues-c1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-issues-otherissues-68-a-4d7"
+  },
+  "/docs/issues/pythonfail-49f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-issues-pythonfaile-68-8d2"
+  },
+  "/docs/python tutorial/frommsstore-bb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-python-tutorial-frommsstoreece-da2"
+  },
+  "/docs/python tutorial/intro-b71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-python-tutorial-introd-9-c-b1e"
+  },
+  "/docs/Script tutorial/download-6b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-script-tutorial-download-61-c-c86"
+  },
+  "/docs/Script tutorial/Extracting-44a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-script-tutorial-extracting-110-7ab"
+  },
+  "/docs/Script tutorial/Running-31a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-script-tutorial-runningbaf-acb"
+  },
+  "/docs/Script tutorial/winrar-1be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-script-tutorial-winrarfa-0-a23"
+  },
+  "/-47f": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagee-20-46b"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

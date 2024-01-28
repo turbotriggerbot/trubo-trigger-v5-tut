@@ -1,0 +1,28 @@
+{
+  "id": "issues/antivirus",
+  "title": "antivirus",
+  "description": "issues you might face during the process and how to fix them",
+  "source": "@site/docs/issues/antivirus.md",
+  "sourceDirName": "issues",
+  "slug": "/issues/antivirus",
+  "permalink": "/docs/issues/antivirus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/issues/antivirus.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "installer disapearing",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "installing and running the triggerbot",
+    "permalink": "/docs/Customer script tutorial/run py file"
+  },
+  "next": {
+    "title": "cant install python",
+    "permalink": "/docs/issues/pythonfail"
+  }
+}
